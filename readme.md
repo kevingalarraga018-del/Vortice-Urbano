@@ -1,8 +1,8 @@
 # website Ropa con sublimacion personalizada 
-- Alumno:
+- Alumno: Kevin Galarraga Y Benjamin del Bosco
 - Curso: 2° 1°
-- Carrera:
-- Materia:
+- Carrera: Comunicacion Multimedial
+- Materia: Programacion Web
 - ciclo lectivo: 2026
 
 ## 🌐 tecnologias utilizadas 🌐
